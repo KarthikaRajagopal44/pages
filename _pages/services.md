@@ -4,9 +4,6 @@ title: Services
 permalink: /services/
 ---
 
-
-
-
 # Machine Learning Office Hours
 
 You can make use of Indic Office Hours to meet 1:1 with experienced researchers to chat about anything related to your research, career, or anything else! The Indic members listed below have been kind enough to volunteer their time to host these office hours. If you'd like to meet with anyone listed, you can book their time using the links provided. Office hours are virtual meetings unless unless otherwise specified.

@@ -4,11 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-
-# Indic Aidias
-
-## Projects
-
 We're proud of the projects Indic Aidias members have worked on! Each project below is by at least one author with an Indic Aidias affiliation or acknowledges Indic Aidias research support.
 
 If you're an Indic Aidias researcher and would like your project posted here, here's [how to add it](/wiki/add-your-paper-projects-page/).

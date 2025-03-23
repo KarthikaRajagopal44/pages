@@ -4,10 +4,6 @@ title: Donate
 permalink: /donate/
 ---
 
-
-
-# Indic Aidias
-
 ## Navigation
 
 - [Home](index.html#home)

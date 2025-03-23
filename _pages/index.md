@@ -1,6 +1,6 @@
 ---
 
-layout: Indic AiDias
+layout: default
 title: Indic AiDias
 permalink: /home/
 
