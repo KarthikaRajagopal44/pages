@@ -6,7 +6,7 @@ gem "github-pages", group: :jekyll_plugins
 gem 'base64'
 gem 'bigdecimal'
 
-gem "bootstrap", "~> 5.3"
+
 
 
 
