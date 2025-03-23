@@ -1,6 +1,9 @@
 ---
-layout: default
-title: "Indic AIDias"
+
+layout: Indic AiDias
+title: Indic AiDias
+permalink: /home/
+
 ---
 
 # Indic AIDias

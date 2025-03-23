@@ -1,3 +1,11 @@
+---
+layout: donate
+title: Donate
+permalink: /donate/
+---
+
+
+
 # Indic Aidias
 
 ## Navigation

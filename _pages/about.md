@@ -1,3 +1,9 @@
+---
+layout: about
+title: About Us
+permalink: /about/
+---
+
 # Indic Aidias
 
 ## Our Story

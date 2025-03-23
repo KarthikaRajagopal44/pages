@@ -1,3 +1,11 @@
+---
+layout: wiki
+title: Wiki
+permalink: /wiki/
+---
+
+
+
 # Indic Aidias
 
 [Home](index.html#home) [About](about.html#about) [Projects](projects.html#projects) [Events](events.html#events) [Services](services.html#services) [Donate](donate.html#donate) [Wiki](wiki.html#wiki)
