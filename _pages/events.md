@@ -3,7 +3,7 @@ layout: events
 permalink: /events/
 ---
 
-# Indic Aidias Events Calendar
+#  Events 
 
 All of our ongoing events, including regularly occurring and one-off ones, can be found at the following "Indic Aidias Events Calendar". We recommend subscribing to our calendar via [Google Calendar](https://calendar.google.com/calendar/u/0?cid=ZTRwNXM3NzE1ZXJzcXNvZXQ2Y3E0NTA5cTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [iCal](https://calendar.google.com/calendar/ical/e4p5s7715ersqsoet6cq4509q0%40group.calendar.google.com/public/basic.ics). If you would like to be added to private invites of all recurring events, opt in via [this form](https://forms.gle/tiQvBYTbxXFCobrE7).
 
