@@ -3,7 +3,7 @@ layout: about
 permalink: /about/
 ---
 
-## Our Story
+
 
 ML Collective was born from Deep Collective, a research group founded by Jason Yosinski and Rosanne Liu at Uber AI Labs in 2017. We started that group to foster open research collaboration and free sharing of ideas, and in 2020 we moved the group outside Uber and renamed it to Indic.
 

@@ -3,18 +3,6 @@ layout: donate
 permalink: /donate/
 ---
 
-## Navigation
-
-- [Home](index.html#home)
-- [About](about.html#about)
-- [Projects](projects.html#projects)
-- [Events](events.html#events)
-- [Services](services.html#services)
-- [Donate](donate.html#donate)
-- [Wiki](wiki.html#wiki)
-
----
-
 ## Donate to MLC
 
 Since its inception, **ML Collective** has brought together machine learning researchers around the world. In many cases, we do this in a way that costs nothing but coordination between humans:  
